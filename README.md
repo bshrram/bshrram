@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bshr Ramadan</h1>
-<h3 align="center">A passionate Computer & Software Engineer from Syria</h3>
-⚠️ This account has limits on accessing private repositories, so my contributions are divided among many temporary accounts.
+<h3 align="center">Computer & Software Engineer</h3>
+⚠️ This account was having limits on accessing private repositories, so my contributions are divided among many temporary accounts.
 
 - 📫 How to reach me **bshr.ramadan.96@gmail.com**
 
